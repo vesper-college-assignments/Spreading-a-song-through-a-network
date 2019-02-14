@@ -8,6 +8,8 @@ Valéria Pereira de Souza 2016/118541
 ===========================================
 */
 
+// Damn, I was pretty verbose with my comments lol
+
 #include <stdio.h>
 # include <stdlib.h>
 #include "grafo.h"
